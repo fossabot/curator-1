@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsunilchadha1973%2Fcurator.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsunilchadha1973%2Fcurator?ref=badge_shield)
+
 .. _readme:
 
 
@@ -106,3 +108,7 @@ was the original author of this tool.  It became Elasticsearch Curator after
 that and is now hosted at <https://github.com/elastic/curator>
 
 [1] <https://logstash.jira.com/browse/LOGSTASH-211>
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsunilchadha1973%2Fcurator.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsunilchadha1973%2Fcurator?ref=badge_large)
